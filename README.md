@@ -1,7 +1,7 @@
 # Dendro Web
 
-Repositorio del futuro sitio web y blog de Dendro.
+Repositorio independiente para el futuro sitio y blog de Dendro. Todavía no se ha elegido ni instalado un framework.
 
-Aquí vivirán el código del sitio, los textos del blog y únicamente los recursos multimedia preparados para publicación. Los videos, fotografías originales y datos de investigación permanecen en `E:\dendro-data`; no forman parte de este repositorio.
+`assets/brand/` contiene los cinco logos SVG de Dendro, copiados y verificados desde `E:\dendro\multimedia\logos`. El código del sitio, las publicaciones y los recursos finales para publicar vivirán aquí.
 
-Estado actual: estructura inicial. Aún no se ha elegido ni instalado un framework.
+Los originales de multimedia siguen en `E:\dendro\multimedia` durante la captura actual; su destino futuro es `E:\dendro-data\multimedia`. Hay una copia local ligera de fotos y logos en `D:\dendro-work\multimedia-source`, con hashes en `D:\dendro-work\multimedia-source-manifest.json`. Los videos originales y datos de investigación no se incluyen en este repositorio.
